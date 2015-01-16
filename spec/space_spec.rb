@@ -34,5 +34,5 @@ describe(Space) do
       expect(test_space.marked_by()).to(eq(test_player))
     end
   end
-
+  
 end
